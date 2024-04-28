@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiKyauk
-- 👀 I’m interested in Arduino, Java, PLC Design & Electronic Prototyping.
+- 👀 I’m interested in C++, C, Arduino, JavaScript, PLC Design & Electronic Prototyping.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on Arduino and PLC related projects.
 
